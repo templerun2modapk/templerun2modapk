@@ -1,1 +1,132 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Temple Run 2 Mod APK - Download for Free</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f9f9f9;
+            color: #333;
+        }
+        header {
+            background-color: #ff6b00;
+            color: white;
+            padding: 1.5rem;
+            text-align: center;
+        }
+        nav {
+            background-color: #ff8a00;
+            padding: 1rem;
+            text-align: center;
+        }
+        nav a {
+            color: white;
+            margin: 0 15px;
+            text-decoration: none;
+            font-weight: bold;
+        }
+        .container {
+            width: 90%;
+            max-width: 1200px;
+            margin: auto;
+            padding: 2rem 0;
+        }
+        .download-btn {
+            display: inline-block;
+            background-color: #ff6b00;
+            color: white;
+            padding: 0.75rem 1.5rem;
+            text-decoration: none;
+            border-radius: 5px;
+            font-size: 1.2rem;
+            margin: 1.5rem 0;
+        }
+        .features, .reviews, .faq {
+            padding: 2rem;
+            background-color: #fff;
+            margin: 1rem 0;
+            border-radius: 5px;
+            box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+        }
+        .features ul, .faq ul {
+            list-style: none;
+            padding: 0;
+        }
+        .features li, .faq li {
+            margin: 1rem 0;
+        }
+        footer {
+            text-align: center;
+            padding: 1rem;
+            background-color: #222;
+            color: #fff;
+        }
+        h2 {
+            color: #ff6b00;
+        }
+    </style>
+</head>
+<body>
 
+<header>
+    <h1>Temple Run 2 Mod APK</h1>
+    <p>Get the latest version with unlimited features and enjoy the endless adventure!</p>
+</header>
+
+<nav>
+    <a href="#about">About</a>
+    <a href="#features">Features</a>
+    <a href="#reviews">User Reviews</a>
+    <a href="#faq">FAQs</a>
+</nav>
+
+<div class="container">
+    <!-- About Section -->
+    <section id="about">
+        <h2>About Temple Run 2 Mod APK</h2>
+        <p>Temple Run 2 Mod APK is a modified version of the popular endless running game, Temple Run 2. In this version, players enjoy unlimited coins, gems, and unlockable characters, providing a more thrilling experience without any restrictions.</p>
+        <a href="download-link-here" class="download-btn">Download Now</a>
+    </section>
+
+    <!-- Features Section -->
+    <section id="features" class="features">
+        <h2>Mod APK Features</h2>
+        <ul>
+            <li>Unlimited Coins and Gems</li>
+            <li>All Characters and Abilities Unlocked</li>
+            <li>Ad-Free Gaming Experience</li>
+            <li>Enhanced Graphics and Smooth Gameplay</li>
+        </ul>
+    </section>
+
+    <!-- User Reviews Section -->
+    <section id="reviews" class="reviews">
+        <h2>User Reviews</h2>
+        <p><strong>Jane D.</strong> - "Absolutely love the mod version! It makes the game so much more enjoyable!"</p>
+        <p><strong>Michael T.</strong> - "The unlimited features add a whole new level of fun. Highly recommend it!"</p>
+        <p><strong>Sarah W.</strong> - "Best way to play Temple Run 2! No ads, and I can finally unlock everything!"</p>
+    </section>
+
+    <!-- FAQ Section -->
+    <section id="faq" class="faq">
+        <h2>Frequently Asked Questions</h2>
+        <ul>
+            <li><strong>Is the Temple Run 2 Mod APK safe to download?</strong> Yes, our APK is scanned for safety and contains no harmful files.</li>
+            <li><strong>Do I need to root my device?</strong> No, this mod does not require rooting.</li>
+            <li><strong>Can I play this version offline?</strong> Yes, Temple Run 2 Mod APK can be played offline.</li>
+            <li><strong>How do I install it?</strong> Download the APK, enable "Unknown Sources" in settings, and install the file.</li>
+        </ul>
+    </section>
+</div>
+
+<footer>
+    <p>&copy; 2024 Temple Run 2 Mod APK. All rights reserved.</p>
+    <p>Disclaimer: This is a fan-made website for informational purposes only.</p>
+</footer>
+
+</body>
+</html>
